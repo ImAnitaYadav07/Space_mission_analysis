@@ -22,7 +22,7 @@ I have created a dashboard to visualize all recommended analysis insights.
 
 3.Which rocket has been used for the most space missions? Is it still active?
 
-4.Are there any patterns you can notice with the launch locations?
+4.Are there any patterns is notice with the launch locations?
 
 ![Space Missions Challenge](https://www.mavenanalytics.io/data-playground?page=2&pageSize=5)
 
