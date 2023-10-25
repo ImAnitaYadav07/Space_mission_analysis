@@ -60,6 +60,6 @@ I have created a dashboard to visualize all recommended analysis insights.
 
 # Dashboard
 
-![Space Mission Dashboard Link](https://app.powerbi.com/groups/me/reports/cc867b4d-ead6-416f-b970-25bcf773dc71/ReportSectionee83fd6a8d95bf6f2c58?experience=power-bi)
+![Space Mission Dashboard Link](https://github.com/ImAnitaYadav07/Space_mission_analysis/blob/144c119798d1b1166cc799366a762e63fbd86645/captures_chrome-capture-2023-9-23%20(1).png)
 
 ![Space Mission Dashboard Link](https://app.powerbi.com/groups/me/reports/cc867b4d-ead6-416f-b970-25bcf773dc71/ReportSectionee83fd6a8d95bf6f2c58?experience=power-bi)
